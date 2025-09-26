@@ -1,4 +1,4 @@
-# Hello-World-Hardworking-Proyects
+# Hello-World-Hard-working-Proyects
 This is my first GitHub repository 
 I am Biomedical Enginner specialized in Prooject Management, interesed in Health IT, PACS, HL7, FHIR, and GIS.
 
