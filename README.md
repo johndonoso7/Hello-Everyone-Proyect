@@ -14,5 +14,3 @@ Here I will upload my projects, documentation, and learning notes related to hea
 1. Upload a simple DICOM metadata exploration project.  
 2. Create a small FHIR API query example.  
 3. Develop a GIS-based health data visualization.
-
-###Process
